@@ -1,5 +1,5 @@
 ### Hi there 👋
-As a 6th-semester Informatics Engineering student at I TERA, I have a strong interest in application development and am proficient in various tools and frameworks in the field of programming and application development. I am currently seeking an internship experience, particularly in the fields of Backend Engineer/Frontend Engineer/Cloud/DevOps, to kickstart my career in the IT industry.
+As a 6th-semester Informatics Engineering student at I TERA, I have a strong interest in application development. I am currently seeking an internship experience, particularly in the fields of Backend Engineer/Frontend Engineer/Web Developer.
 
 
 ## 🌐 Socials:
