@@ -1,6 +1,4 @@
 ### Hi there 👋
-As a 6th-semester Informatics Engineering student at I TERA, I have a strong interest in application development. I am currently seeking an internship experience, particularly in the fields of Backend Engineer/Frontend Engineer/Web Developer.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MichaelPascalisSimanjuntak) 
@@ -8,10 +6,6 @@ As a 6th-semester Informatics Engineering student at I TERA, I have a strong int
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klstak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=klstak&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 ### ✍️ Random Dev Quote
